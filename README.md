@@ -1,5 +1,5 @@
 # sCinema-app
-<img height=180 src="https://github.com/SichniyAndriy/s-cinema-app/blob/s-cinema-app/src/main/resources/cinema.avif"/>
+<img height=180 src="https://github.com/SichniyAndriy/s-cinema-app/blob/main/src/main/resources/cinema.avif"/>
 
 <h4><i>Description</i></h4>
 <h5>A simle student's web application, that simulated work of movietheater. Can do reservation tickets, supports registration, authentication and CRUD operations.</h4>
