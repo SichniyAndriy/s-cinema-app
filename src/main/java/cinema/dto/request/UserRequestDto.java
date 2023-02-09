@@ -1,10 +1,10 @@
 package cinema.dto.request;
 
-import java.util.Set;
-import javax.validation.constraints.Size;
 import cinema.lib.FieldsValueMatch;
 import cinema.lib.ValidEmail;
 import cinema.model.Role;
+import java.util.Set;
+import javax.validation.constraints.Size;
 
 @FieldsValueMatch(
         field = "password",

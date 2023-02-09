@@ -1,11 +1,11 @@
 package cinema.service.impl;
 
-import java.util.Set;
 import cinema.model.Role;
 import cinema.model.User;
 import cinema.service.AuthenticationService;
 import cinema.service.ShoppingCartService;
 import cinema.service.UserService;
+import java.util.Set;
 import org.springframework.stereotype.Service;
 
 @Service

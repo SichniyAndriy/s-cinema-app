@@ -1,11 +1,11 @@
 package cinema.config;
 
-import java.util.Set;
-import javax.annotation.PostConstruct;
 import cinema.model.Role;
 import cinema.model.User;
 import cinema.service.RoleService;
 import cinema.service.UserService;
+import java.util.Set;
+import javax.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

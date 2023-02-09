@@ -1,9 +1,9 @@
 package cinema.service.impl;
 
-import java.util.Optional;
 import cinema.model.Role;
 import cinema.model.User;
 import cinema.service.UserService;
+import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User.UserBuilder;
 import org.springframework.security.core.userdetails.UserDetails;
