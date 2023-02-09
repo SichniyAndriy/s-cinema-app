@@ -29,11 +29,6 @@
   <li> <h5>Apache Maven</h5> </li>
   <li> <h5>Apache Tomcat</h5> </li>
   <li> <h5>JPA</h5> </li>
-  <li> <h5>SQL</h5> </li>
-  <li> <h5>JDBC</h5> </li>
-  <li> <h5>Javax Servlet</h5> </li>
-  <li> <h5>JSTL</h5> </li>
-  <li> <h5>HTML/CSS</li>
   <li> <h5>Checkstyle plugin</h5> </li>
   <li> <h5>Spring Core</h5> </li>
   <li> <h5>Spring Web</h5> </li>
